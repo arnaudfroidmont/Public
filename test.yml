@@ -1,0 +1,5 @@
+---
+  
+- name: install htop
+  yum:
+    name: htop
